@@ -1,3 +1,6 @@
+### Featues of the app
+* This chatting apps based on React and Redux provides the functionality of chatting between two users.
+
 ### Running the app
 
 1. Ensure you have `npm` installed.
